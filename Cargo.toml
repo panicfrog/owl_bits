@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  "owl_brain",
+  "owl_eyes",
+  "example",
+]
+
+resolver = "2"
